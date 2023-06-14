@@ -1,0 +1,35 @@
+.nomeProduto{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.imgPrincipal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tresImg{
+    display: flex;
+    align-items: center;
+    display: grid;
+}
+
+.imgProduto_lateral{
+    width: 80px;
+}
+
+.imgProduto_principal{
+    width: 350px;
+}
+.descricao {
+    /* width: 50%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button {
+    display: inline-block;
+}
+

@@ -1,0 +1,46 @@
+.header-sem-login {
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    position: static;
+    top: 0;
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+.container-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.logo {
+    width: 160px;
+    cursor: pointer;
+    
+
+}
+
+.logo:hover {
+    transform: scale(1.1);
+    color: rgb(61, 60, 60)
+}
+
+.header .container_busca {
+    display: flex;
+    align-items: center;
+      }
+  
+  .header .busca-icon {
+    position: relative;
+    top: 5.5px;
+    height: 20px;
+    color: #000000ad;
+    cursor: pointer;
+    border: none;
+    padding-left: 10px;
+    
+  }
+  

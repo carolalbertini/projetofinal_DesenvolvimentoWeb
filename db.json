@@ -1,0 +1,127 @@
+{
+  "usuarios": [
+    {
+      "email": "carol@serratec.com",
+      "senha": "123456",
+      "id": 1
+    }
+  ],
+  "produtos": [
+    {
+      "imagem": "https://pngimg.com/uploads/iphone_14/iphone_14_PNG46.png",
+      "nome": "Iphone 14 Pro Max",
+      "preco": 7998.99,
+      "quantidade": 5,
+      "descrição": "Apple iPhone 14 Pro Max 128GB Prateado",
+      "marca": "Apple",
+      "feedbacksPositivos": 39,
+      "feedbacksNegativos": 3,
+      "id": 1,
+      "avaliado": true
+    },
+    {
+      "imagem": "https://pngimg.com/uploads/iphone_14/iphone_14_PNG46.png",
+      "nome": "Samsung da China",
+      "preco": 729.99,
+      "quantidade": 3,
+      "descrição": "Melhor réplica de celular",
+      "marca": "Samsung",
+      "feedbacksPositivos": 39,
+      "feedbacksNegativos": 4,
+      "id": 2,
+      "avaliado": false
+    },
+    {
+      "imagem": "https://cdn.shopify.com/s/files/1/0530/8527/4291/products/samsung-a22-white_d36aa283-f0e4-466a-be6f-6117a3871c27.png?v=1625989190",
+      "nome": "Samsung Galaxy A22",
+      "preco": 999.99,
+      "quantidade": 10,
+      "descrição": "Melhor cel",
+      "marca": "Samsung",
+      "feedbacksPositivos": 34,
+      "feedbacksNegativos": 2,
+      "id": 3,
+      "avaliado": false
+    },
+    {
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/48189197/9/4818919742_2GG.jpg",
+      "nome": "Motorola Moto G22",
+      "preco": 1199.29,
+      "quantidade": 9,
+      "descrição": "128GB 4G Wi-Fi Tela 6.5'' Dual Chip 4GB RAM Câmera Quádrupla + Selfie 16MP - Azul",
+      "marca": "Samsung",
+      "feedbacksPositivos": 34,
+      "feedbacksNegativos": 2,
+      "id": 4
+    },
+    {
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img3/58143947/9/5814394707_3GG.jpg",
+      "nome": "Motorola Edge 30",
+      "preco": 2050.99,
+      "quantidade": 5,
+      "descrição": "Neo 5G 256GB Wi-Fi Tela 6.3'' Dual Chip 8GB + RAM Boost Câmera Dupla + Selfie 32MP",
+      "marca": "Motorola",
+      "feedbacksPositivos": 35,
+      "feedbacksNegativos": 2,
+      "id": 5,
+      "avaliado": true
+    },
+    {
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/539644021/0/5396440247_1GG.jpg",
+      "nome": "Samsung Galaxy M53",
+      "preco": 1429.39,
+      "quantidade": 8,
+      "descrição": "5G 128GB 5G Wi-Fi Tela 6.7'' Dual Chip 8GB RAM Câmera + Selfie 32MP - Marrom",
+      "marca": "Samsung ",
+      "feedbacksPositivos": 35,
+      "feedbacksNegativos": 2,
+      "id": 6,
+      "avaliado": true
+    },
+    {
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/58227828/9/5822782806_1GG.jpg",
+      "nome": "Motorola Moto E22  ",
+      "preco": 1666.99,
+      "quantidade": 450,
+      "descrição": "32GB Wi-Fi Tela 6.'' Dual Chip 2GB de RAM Câmera Dupla 16 MP + 2 MP XT2239-16 - Grafite",
+      "marca": "Motorola",
+      "feedbacksPositivos": 34,
+      "feedbacksNegativos": 2,
+      "id": 7
+    },
+    {
+      "imagem": "https://images-americanas.b2w.io/produtos/7266695671/imagens/lancamento-smartphone-poco-x5-pro-128gb-8gb-amarelo-versao-global-entrega-em-todo-o-brasil/7266695701_1_large.jpg",
+      "nome": "Poco X5",
+      "preco": 2666.6,
+      "quantidade": 450,
+      "descrição": "Pro 128gb 8GB amarelo - Versão Global",
+      "marca": "Xaiomi",
+      "feedbacksPositivos": 34,
+      "feedbacksNegativos": 2,
+      "id": 8
+    },
+    {
+      "imagem": "https://images-americanas.b2w.io/produtos/7390132075/imagens/smartphone-xiaomi-redmi-note-11-128gb-4gb-ram-tela-6-43-azul/7390132075_1_large.jpg",
+      "nome": "Xiaomi Redmi Note 11",
+      "preco": 1849,
+      "quantidade": 450,
+      "descrição": "128GB, 4GB ram Tela 6.43 Azul",
+      "marca": "Xiaomi",
+      "feedbacksPositivos": 34,
+      "feedbacksNegativos": 2,
+      "id": 9
+    },
+    {
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/2205323/3/2205323348_1GG.jpg",
+      "nome": "Nokia 5.3",
+      "preco": 1899.99,
+      "quantidade": 450,
+      "descrição": "128GB Dual Chip Android Tela 6.5'' Octa Core 4G Câmera 13MP+5MP+2MP+2MP - Carvão",
+      "marca": "Nokia",
+      "feedbacksPositivos": 34,
+      "feedbacksNegativos": 2,
+      "id": 10
+    }
+  ],
+  "pedido": []
+}
