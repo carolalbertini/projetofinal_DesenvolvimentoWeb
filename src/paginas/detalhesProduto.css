@@ -32,4 +32,31 @@
 button {
     display: inline-block;
 }
+.feedbackPositivo{
+    margin: 3px;
+    color: green;
+    border: unset;
+    cursor: pointer;
+}
 
+.feedbackNegativo{
+    margin: 3px;
+    color: red;
+    border: unset;
+    cursor: pointer;
+}
+
+.divFeedback{
+    display: flex;
+    margin-top: 8px;
+}
+
+.divPositivo {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+.divNegativo{
+    display: flex;
+    align-items: center;
+}
