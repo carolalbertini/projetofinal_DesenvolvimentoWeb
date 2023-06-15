@@ -106,19 +106,19 @@ export const DetalhesProduto = () => {
         <p>Marca: {detalhesProduto.marca}</p>
         <div className='divFeedback'>
           <div className='divPositivo'>
-            <button className='feedbackPositivo' onClick={atualizarFeedbacksPositivos}>{avaliado ? <ThumbUpIcon /> : <ThumbUpIcon />} </button>
+            <button className='feedbackPositivo' onClick={atualizarFeedbacksPositivos}>{avaliado ? <ThumbUpIcon sx={{ fontSize: 32 }}  /> : <ThumbUpIcon sx={{ fontSize: 32 }} />} </button>
             <span>{feedbacksPositivos}</span>
           </div>
           <div className='divNegativo'>
-            <button className='feedbackNegativo' onClick={atualizarFeedbacksNegativos} >{avaliado ? <ThumbDownIcon /> : <ThumbDownIcon />} </button>
+            <button className='feedbackNegativo' onClick={atualizarFeedbacksNegativos} >{avaliado ? <ThumbDownIcon sx={{ fontSize: 32 }} /> : <ThumbDownIcon sx={{ fontSize: 32 }} />} </button>
             <span>{feedbacksNegativos}</span>
           </div>
         </div>
         <p className="btn-comprar" onClick={() => handleClickCarrinho(detalhesProduto)}>
           {carrinho.some((item) => item.id === detalhesProduto.id) ? (
-            <ShoppingCartIcon />
+            <ShoppingCartIcon sx={{ fontSize:40 }}/>
           ) : (
-            <AddShoppingCartIcon />
+            <AddShoppingCartIcon sx={{ fontSize:40 }}/>
           )}
         </p>
       </div>

@@ -206,7 +206,7 @@ export const Carrinho = () => {
             <div>
               <p>Seu carrinho está vazio D: </p>
               <br />
-              <p>Navegue pela nossa <Link to="/"> loja </Link> e adicione produtos</p>
+              <p>Navegue pela nossa <Link className="loja" to="/"> loja </Link> e adicione produtos</p>
               {!isLoggedIn && <p>Faça o login para realizar a compra.</p>}
             </div>
           )}
